@@ -1,0 +1,25 @@
+h1{
+  color: cadetblue  
+}
+
+
+
+table{
+   font-family:monospace;
+   border-collapse:collapse;
+   border-width:15px;
+   borde-style:SOLID;
+   border-color:cadetblue;
+ 
+}
+
+th{
+    font-weight:300;
+    color: forestgreen
+    background-color:#2695A6;
+  
+}
+
+tr.alt td{
+           background-color:goldenrod;
+}
